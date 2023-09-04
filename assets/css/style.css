@@ -1,0 +1,14 @@
+body{
+    margin:o;
+    padding: 0;
+    background-color: pink;
+}
+.collapse{
+    display: flex;
+   justify-content: flex-end;
+}
+
+/* pour bootstrap(d-flex;md-5:margin bootom */
+i{
+   font-size:3em; 
+}
