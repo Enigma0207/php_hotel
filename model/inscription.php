@@ -1,5 +1,5 @@
 <?php
-require_once ("inc/database.php");
+require_once ("../inc/database.php");
 if(isset($_POST["submit"])){
     // recupere les info saisie par le user
     $lastName = htmlspecialchars($_POST["lastname"]);

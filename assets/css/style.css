@@ -12,3 +12,9 @@ body{
 i{
    font-size:3em; 
 }
+.img_room{
+    height: 200px;
+}
+.img_room img{
+    height: 100%;
+}
