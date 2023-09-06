@@ -9,7 +9,7 @@
 
 <div class="container">
 
-   <form action="model/db_booking.php" method="post">
+   <form action="./model/db_booking.php" method="post">
   
          <input type="text" name="id_room" value="<?= $_GET['room'] ?>" hidden>
          <input type="text" name="price" value="<?= $_GET['price'] ?>" hidden>
